@@ -1,4 +1,4 @@
-org: pcsaverde
+org: pcasaverde
 service: api-cursos
 
 provider:
